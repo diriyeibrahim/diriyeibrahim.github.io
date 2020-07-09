@@ -1,9 +1,7 @@
 ---
-title: "About"  
-permalink: /about/
 layout: archive
-header:
-  images:
+permalink: /about/
+title: "About"  
 author_profile: true
 ---
 I studied industrial engineering, the science of optimization and improvement, due to it being at the crossroad between mathematics, engineering, and business. My interests lie at the intersection of analytics and supply chain management utilizing analytics technologies such as Excel, Minitab, Python, and R to identify large scale production and manufacturing problems. I am very thorough and like to research and identify all possible
