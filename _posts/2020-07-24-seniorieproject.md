@@ -13,18 +13,22 @@ The concentration of the study is to optimize San Jose State University’s wast
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/recyclingsystem/processmap.jpeg" alt="">
 
-From inspection of the initial supply chain flowchart, it is apparent that there are various machines, supply chain partners, and people involved in the school's waste management system. One of our industry sponsors and notable system participant, GreenWaste, provided the team with data on which locations on the San Jose State University campus generate the most waste, what types of materials are sent to recycling or landfill, and the amount of truck arrivals per bin type collected. During the Six Sigma Measure and Analyze Phase, I defined metrics and units, organized, and cleaned up that data on excel before tabulating descriptive statistics and performing a design of experiments test utilizing Minitab and R to identify trends, variation, or factors of significance.
+From inspection of the initial supply chain flowchart, it is apparent that there are various machines, supply chain partners, and people involved in the school's waste management system. One of our industry sponsors and notable system participant, GreenWaste, provided the team with data on which locations on the San Jose State University campus generate the most waste, what types of materials are sent to recycling or landfill, and the amount of truck arrivals per bin type collected. I defined metrics and units, organized, and cleaned up that data on excel before tabulating descriptive statistics and performing a design of experiments test utilizing Minitab and R to identify trends, variation, or factors of significance.
 
 ## R Code
 
 Metric: Waste Per Location (Tons)
-[link](https://github.com/diriyeibrahim/Senior-IE-Project/blob/master/Waste%20Per%20Location.R)
+[link]
+(https://github.com/diriyeibrahim/Senior-IE-Project/blob/master/Waste%20Per%20Location.R)
 
 Metric: Materials Recycled Per Month (Tons)
-[link](https://github.com/diriyeibrahim/Senior-IE-Project/blob/master/Materials%20Recycled%20Per%20Month.R)
+[link]
+(https://github.com/diriyeibrahim/Senior-IE-Project/blob/master/Materials%20Recycled%20Per%20Month.R)
 
 Metric: Materials Landfilled Per Month (Tons)
-[link](https://github.com/diriyeibrahim/Senior-IE-Project/blob/master/Materials%20Landfilled%20Per%20Month.R)
+[link]
+(https://github.com/diriyeibrahim/Senior-IE-Project/blob/master/Materials%20Landfilled%20Per%20Month.R)
 
 Metric: Bin Removal Frequency (Trucks per Bin)
-[link](https://github.com/diriyeibrahim/Senior-IE-Project/blob/master/Bin%20Removal%20Frequency.R)
+[link]
+(https://github.com/diriyeibrahim/Senior-IE-Project/blob/master/Bin%20Removal%20Frequency.R)
